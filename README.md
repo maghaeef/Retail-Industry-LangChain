@@ -1,5 +1,5 @@
 
-# End-to-End Gen AI Project Using LangChain, Google PaLM in Retail Industry
+# End-to-End Gen AI Project Using LangChain, OpenAI in Retail Industry
 
 ## Overview
 This project showcases an **LLM-powered** application for a retail scenario using:
