@@ -1,0 +1,31 @@
+# Core LangChain components
+langchain==0.1.14
+langchain-core==0.1.37
+langchain-community==0.0.30
+langchain-experimental==0.0.35
+sentence-transformers
+
+# LLM provider
+openai
+
+# SQL support
+sqlalchemy
+pymysql
+
+# Utilities
+# Progress bars
+# Remove backticks
+# Install tqdm for progress bars
+tqdm
+# For pretty tables
+tabulate
+
+# Jupyter notebook support
+ipykernel
+
+# Other
+dotenv
+chromadb
+# pandas
+# numpy
+# python-dotenv
