@@ -26,6 +26,7 @@ ipykernel
 # Other
 dotenv
 chromadb
+streamlit==1.22.0
 # pandas
 # numpy
 # python-dotenv
